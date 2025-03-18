@@ -1,4 +1,4 @@
-# Chatbot Voice Greeting C# Application
+# Voice Greeting C# Application
 
 ## Overview
 This C# console application simulates a basic chatbot greeting the user with both a textual message and a pre-recorded voice greeting. It is a simple demonstration of how to play audio files in a C# application while also handling errors related to missing or inaccessible files. The application includes an easy-to-understand structure, allowing you to modify it for more complex scenarios.
